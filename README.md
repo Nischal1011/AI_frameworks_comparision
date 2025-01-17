@@ -66,8 +66,8 @@ OPENAI_API_KEY=your_api_key_here
 ├── README.md
 ├── requirements.txt
 ├── example.txt              # Sample computer history document
-├── langgraph_temp.py       # LangGraph implementation
-├── langchain_temp.py       # LangChain implementation
+├── langgraph_implementation.py       # LangGraph implementation
+├── langchain_implementation.py       # LangChain implementation
 └── .env                    # Environment variables
 ```
 
