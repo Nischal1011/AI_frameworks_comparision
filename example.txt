@@ -1,0 +1,11 @@
+The history of computers dates back to the early 19th century with the invention of mechanical devices like Charles Babbage's Analytical Engine. Although never fully built during his lifetime, Babbage's design laid the foundation for modern computing by introducing concepts such as programmable logic and memory.
+
+In the mid-20th century, the first electronic computers emerged. The ENIAC (Electronic Numerical Integrator and Computer), completed in 1945, was one of the earliest general-purpose electronic computers. It was massive, occupying an entire room, and used vacuum tubes for processing. ENIAC was primarily used for military calculations, such as artillery trajectory tables.
+
+The invention of the transistor in 1947 revolutionized computing. Transistors replaced vacuum tubes, making computers smaller, faster, and more energy-efficient. This led to the development of mainframe computers in the 1950s and 1960s, such as the IBM 700 series, which were used by businesses and governments for large-scale data processing.
+
+The 1970s saw the rise of personal computers (PCs). The Altair 8800, released in 1975, is often considered the first commercially successful PC. It was followed by iconic machines like the Apple II and the IBM PC, which brought computing power to homes and small businesses.
+
+The 1980s and 1990s were marked by rapid advancements in hardware and software. Graphical user interfaces (GUIs), pioneered by Xerox and popularized by Apple's Macintosh, made computers more accessible to non-technical users. The internet, which began as a government project, became widely available to the public in the 1990s, transforming how people communicate and access information.
+
+Today, computers are ubiquitous, from smartphones and laptops to cloud-based systems and artificial intelligence. The evolution of computing continues to shape nearly every aspect of modern life.
